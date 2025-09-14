@@ -1,6 +1,6 @@
 [server]
 headless = true
-address = "127.0.0.1"
+address = "194.238.22.59"
 port = 840
 
 [theme]
