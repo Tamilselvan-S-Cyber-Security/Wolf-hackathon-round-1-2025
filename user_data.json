@@ -1,0 +1,18 @@
+{
+  "user@example.com": {
+    "health_score": 100,
+    "completed_challenges": [],
+    "current_challenge": 1,
+    "last_updated": "2025-09-14T01:50:29.166044"
+  },
+  "tamilselvan@gmail.com": {
+    "health_score": 30,
+    "completed_challenges": [
+      1,
+      2,
+      3
+    ],
+    "current_challenge": 4,
+    "last_updated": "2025-09-14T08:45:24.814255"
+  }
+}
